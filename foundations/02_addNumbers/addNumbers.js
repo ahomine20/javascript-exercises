@@ -3,8 +3,8 @@ function addNumbers() {
   const b = 1;
 
   let result;
-
-  result = "a" + "b"; // <------ EDIT THIS LINE
+ // Here I just delete the '' to each const
+  result = a + b; // <------ EDIT THIS LINE
 
   return result;
 }
